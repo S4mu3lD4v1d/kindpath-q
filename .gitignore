@@ -1,0 +1,15 @@
+.DS_Store
+build/
+cmake-build-*/
+out/
+*.jucer
+.JuceLibraryCode/
+.idea/
+.vscode/
+*.xcworkspace
+*.xcuserstate
+xcuserdata/
+DerivedData/
+*.wav
+*.aiff
+*.mp3
