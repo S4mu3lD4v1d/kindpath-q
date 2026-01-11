@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Bass movement perception",
+    "summary": "Low frequencies feel stable when their motion is smooth and predictable.",
+    "details": "Sub and kick energy are tracked by the ear through slow envelope changes. If the envelope is jagged, the groove can feel unsettled even when the notes are correct. Gentle contour shaping often helps the low end feel anchored.",
+    "links": ["(add link later)"]
+  },
+  {
+    "title": "High-frequency sparkle",
+    "summary": "Brightness reads as detail when it stays above the mix, not inside it.",
+    "details": "Short, clear transients and carefully controlled high-shelf energy make the top end feel airy without masking midrange cues. The ear treats consistent sparkle as a texture layer rather than a sharp intrusion.",
+    "links": ["(add link later)"]
+  },
+  {
+    "title": "Groove and swing",
+    "summary": "Micro-timing shapes the feel even when tempo is constant.",
+    "details": "Small, repeatable timing offsets can make a loop feel forward, relaxed, or human. The listener recognizes the pattern and locks to it, so tiny shifts carry emotional weight.",
+    "links": ["(add link later)"]
+  },
+  {
+    "title": "Tension and release",
+    "summary": "Contrast sets up the brain's expectation and payoff cycles.",
+    "details": "Rising energy, harmonic ambiguity, or rhythmic density creates tension. A clear return to stability feels satisfying because the ear resolves the prior uncertainty.",
+    "links": ["(add link later)"]
+  },
+  {
+    "title": "Sidechain pumping",
+    "summary": "Rhythmic gain movement can unify layers into one pulse.",
+    "details": "When multiple parts duck together, the ear groups them as one rhythmic gesture. This can make the groove feel cohesive even with busy instrumentation.",
+    "links": ["(add link later)"]
+  },
+  {
+    "title": "Harmonic series cues",
+    "summary": "Overtones help the ear judge size and clarity.",
+    "details": "The balance between the fundamental and its harmonics tells the ear how large or bright a sound is. A richer series often feels more present without requiring more level.",
+    "links": ["(add link later)"]
+  },
+  {
+    "title": "Timbre brightness",
+    "summary": "Brightness signals proximity and energy.",
+    "details": "Sounds with more high-frequency content are perceived as closer and more energetic. Managing brightness lets you steer depth and excitement without changing volume.",
+    "links": ["(add link later)"]
+  },
+  {
+    "title": "Transient punch",
+    "summary": "Short attacks create the sense of impact.",
+    "details": "The first few milliseconds of a sound define its punch. Preserving that edge, while shaping sustain, often makes drums and stabs feel more confident.",
+    "links": ["(add link later)"]
+  },
+  {
+    "title": "Reverb depth",
+    "summary": "Early reflections define distance more than tail length.",
+    "details": "Short reflections communicate room size and proximity. A long tail alone can feel washy; pairing it with a clear early pattern creates depth without losing clarity.",
+    "links": ["(add link later)"]
+  },
+  {
+    "title": "Width versus mono",
+    "summary": "Width feels exciting until it collapses.",
+    "details": "Wide elements can disappear in mono if their phase relationship is too loose. Checking correlation and mono balance helps keep the excitement while staying club-safe.",
+    "links": ["(add link later)"]
+  },
+  {
+    "title": "Ear fatigue",
+    "summary": "Constant intensity makes the brain stop noticing details.",
+    "details": "When everything is bright, loud, and dense, the ear adapts and the mix feels flat. Dynamic contrast and spectral rest make the energetic moments feel stronger.",
+    "links": ["(add link later)"]
+  },
+  {
+    "title": "Familiarity in music history",
+    "summary": "Genres teach the ear what to expect.",
+    "details": "Listeners map new music onto patterns they already know. Referencing familiar tonal balances or rhythmic gestures can make a fresh track feel instantly understandable.",
+    "links": ["(add link later)"]
+  }
+]
